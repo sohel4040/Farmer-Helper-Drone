@@ -19,7 +19,7 @@
     pip install -r requirements.txt
    ```
    
-4. Start the server using following command.
+4. Download configuration files using the link attached below and then start the server using following command.
 
    ```bash
     python3 drone_code.v11.py

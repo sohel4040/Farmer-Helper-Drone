@@ -1,0 +1,7 @@
+requests
+requests-aws4auth
+python-dotenv
+paho-mqtt
+opencv-python
+numpy
+ultralytics

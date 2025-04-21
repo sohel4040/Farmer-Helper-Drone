@@ -28,6 +28,6 @@
 
 > **Note:** Make sure your repository includes a `drone_images` folder containing all images numbered sequentially from `1` to `N`. Additionally, ensure that the `.env` file and AWS authorization certificates are placed in the root directory. These are required to enable communication with AWS services.
 
-[Click here to download the config files]([https://drive.google.com/your-shareable-link](https://drive.google.com/file/d/16uo4UoQPUY0IIVjoze0pawXabtHiOCFp/view?usp=drive_link))
+[Click here to download the config files](https://drive.google.com/file/d/16uo4UoQPUY0IIVjoze0pawXabtHiOCFp/view?usp=drive_link)
 
 

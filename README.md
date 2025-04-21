@@ -26,7 +26,5 @@
    ```
    
 
-> **Note:** Make sure your repository includes a `drone_images` folder containing all images numbered sequentially from `1` to `N`.
-
-Additionally, ensure that the `.env` file and AWS authorization certificates are placed in the root directory. These are required to enable communication with AWS services.
+> **Note:** Make sure your repository includes a `drone_images` folder containing all images numbered sequentially from `1` to `N`. Additionally, ensure that the `.env` file and AWS authorization certificates are placed in the root directory. These are required to enable communication with AWS services.
 
